@@ -1,2 +1,2 @@
 def myfunction():
-    return 'test'
+    return 'test-1'
