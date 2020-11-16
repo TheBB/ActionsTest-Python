@@ -5,7 +5,7 @@ from Cython.Build import cythonize
 
 setup(
     name='TheBB-TestPackage',
-    version='6.0.0',
+    version='7.0.0',
     maintainer='Eivind Fonn',
     maintainer_email='evfonn@gmail.com',
     packages=['thebb_testpackage'],
